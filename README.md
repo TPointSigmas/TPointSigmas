@@ -1,3 +1,3 @@
-Hiya
-here to learn
-should be good
+Hiya,
+here to learn.
+Should be good.
